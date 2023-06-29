@@ -13,3 +13,4 @@ This code is based on code from Hunor Márton Borbély. Therefore I will not be 
 
 ## Acknowledgments
 * [Hunor Márton Borbély](https://www.freecodecamp.org/news/svg-tutorial-learn-to-code-images/)
+* freeCodeCamp
